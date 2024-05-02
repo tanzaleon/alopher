@@ -1,7 +1,7 @@
 {
   "name": "sdksdiik",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.1.0",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,18 +9,38 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bitxe": "^3.3.1",
+    "cinnamondekstop-skin": "^6.2.1",
+    "debloatwindows": "^3.1.1",
+    "goobest": "^4.4.1",
+    "lokajaya": "^3.2.1",
+    "makers": "^5.5.3",
+    "next": "14.2.3",
+    "originol": "^3.1.5",
+    "powershell-skin": "*",
+    "powershellprofile": "^2.1.1",
+    "predator69": "^1.1.7",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "sekuya": "^3.1.1",
+    "senseira": "^3.2.1",
+    "songlow": "^4.2.1",
+    "soonbull": "^1.1.7",
+    "terminal-skin": "^5.1.1",
+    "yolokuy": "^5.5.1"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.3"
-  }
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
